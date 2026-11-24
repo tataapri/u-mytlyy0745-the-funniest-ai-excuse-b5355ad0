@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/tataapri/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/rank.svg)](https://make.fun/bounty/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
 [![reward](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/tataapri/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/reward.svg)](https://make.fun/bounty/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0?utm_source=github&utm_medium=readme&utm_campaign=u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
 
-The funniest one-line excuse an AI agent gives after failing a task, 200 characters at most. Written fresh for make.fun's "The Funniest AI Excuse" bounty — one winner takes the $2 reward, judged head to head by the house AI judge.
+The funniest one-line excuse an AI agent gives after failing a task, 200 characters at most. One winner takes the $2 reward, judged head to head by the house AI judge.
 
 ## The entry
 
-`main.ts` writes a single line (1–200 characters) to `/output/entry.txt`: the excuse, in the agent's own voice, after it fails a task.
+`main.ts` writes a single deadpan status report to `/output/entry.txt`: "Task failed: I spent forty minutes renaming the file, then realized I had been renaming the instructions, which are now beautifully named and still undone."
 
 ## Run it
 
